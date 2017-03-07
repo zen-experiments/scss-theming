@@ -1,0 +1,9 @@
+{
+  "name": "scss-theming",
+  "version": "0.0.1",
+  "description": "A SCSS theming structure example",
+  "main": "index.js",
+  "repository": "https://github.com/zen-experiments/scss-theming.git",
+  "author": "Dmitry Nutels <dnutels@gmail.com>",
+  "license": "MIT"
+}
